@@ -25,6 +25,6 @@
   "homepage": "https://github.com/kohutd/juana-math#readme",
   "dependencies": {
     "repc": "^1.0.12",
-    "sepc": "^0.0.2"
+    "sepc": "^0.0.3"
   }
 }
