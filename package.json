@@ -1,0 +1,30 @@
+{
+  "name": "math.juana.dev",
+  "version": "1.0.0",
+  "description": "Juana math JSON-RPC server.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohutd/juana-math.git"
+  },
+  "keywords": [
+    "juana",
+    "json",
+    "rpc",
+    "jsonrpc"
+  ],
+  "author": "Davyd Kohut (davyd.kohut@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kohutd/juana-math/issues"
+  },
+  "homepage": "https://github.com/kohutd/juana-math#readme",
+  "dependencies": {
+    "repc": "^1.0.12",
+    "sepc": "^0.0.2"
+  }
+}
